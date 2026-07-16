@@ -21,13 +21,13 @@ Fonte: `GAXEL_Brand_Board.pdf`. Este documento é a referência única — as fi
 
 ## Tipografia
 
-**Galins** — caixa alta e predominante, tem peso visual; a função do texto é informativa e faz parte da própria produção (não é só legenda, é elemento gráfico).
+**Decisão atual — Bodoni Moda**, peso 800, tracking +0.02em, com kerning manual fechado nos pares **A→X** e **E→L** do wordmark "GAXEL" (ajuste letra a letra, não é texto simplesmente digitado). Contraste extremo entre traço fino e grosso — a mesma linguagem que o brand board já pede em "luz direta, tudo hiper definido, alto contraste". Google Fonts, licença SIL Open Font License: uso comercial e modificação livres, sem custo.
 
-> ⚠️ **Licença:** o arquivo `Galins.otf` fornecido é **somente para uso pessoal** (ver `Read Me !!!.txt` do pacote). Uso comercial/promocional — logo, embalagem, posts, site — exige licença paga em brandsemut.com/product/galins-ligature-typeface/. Não publicar nada de marca com essa fonte antes de comprar a licença.
->
-> Não é possível "recriar" a Galins a partir do arquivo atual sem violar a licença — modificar os glifos não remove os direitos do autor original. Duas saídas limpas:
-> 1. Comprar a licença comercial (single-family, geralmente baixo custo para uso próprio de marca).
-> 2. Enquanto isso, usar uma serifada de exibição com peso e caráter parecido, licenciada para uso comercial livre (ex.: Fraunces, Cormorant, Playfair Display) — todas no Google Fonts.
+Apoio: **Italiana** (peso 400, tracking 0,3–0,34em) para selos e subtítulos em caixa alta; **Cinzel** (peso 600, tracking 0,1em) como carimbo/selo alternativo. Texto corrido segue em sans-serif de sistema.
+
+Exploração completa e specimen visual: artifact "GAXEL — Sistema Tipográfico" publicado na conversa (três direções testadas + lockup recomendado com a marca da Flor da Vida).
+
+> ⚠️ **Galins:** o arquivo `Galins.otf` fornecido é **somente para uso pessoal** (ver `Read Me !!!.txt` do pacote). Uso comercial exige licença paga em brandsemut.com/product/galins-ligature-typeface/. Fica reservada — não é a base do sistema tipográfico acima, que usa apenas fontes com licença comercial livre desde a origem.
 
 ## Direção Visual
 
