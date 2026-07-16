@@ -102,8 +102,8 @@ Ver `../identidade/identidade-visual.md`.
 
 ## 10. Conteúdo Visual
 
-- **Status fotos/vídeos:** não iniciado
-- **Pasta Drive:** [link — ver `02 Processo Criativo/BR-001 Bracelete Aurora/05 Fotos & Vídeos`]
+- **Status fotos/vídeos:** não confirmado — nenhuma das fotos inspecionadas na pasta do Drive bate com a especificação (prata 925 + labradorita) desta peça; ver `../midia-social/catalogo-fotos.md`.
+- **Pasta Drive:** [FOTOS GAXEL](https://drive.google.com/drive/folders/1hQB6qOckcK0ryG42ZMcwKX0hb79Gzmb_) (pasta geral, ainda sem subpasta por peça)
 
 ## 11. Status no Fluxo Criativo
 
