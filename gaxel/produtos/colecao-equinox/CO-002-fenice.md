@@ -1,42 +1,42 @@
 ---
-codigo: BR-003
-nome: "Oceano"
-categoria: "Pulseira"
+codigo: CO-002
+nome: "Fênice"
+categoria: "Colar"
 colecao: "Equinox"
-material_principal: "A confirmar — provavelmente similar ao colar Oceano (vidro azul, pedra oceano, madeira, pretas), não copiar sem confirmar"
+material_principal: "A confirmar — visualmente miçanga preta, laranja/coral e vermelha, com detalhes prateados"
 status: "Aguardando distinta base"
-fase_atual: "01 — Inspiração & Território"
+fase_atual: "02 — Design & Prototipagem"
 data_criacao: "2026-07-17"
 preco_venda: "a definir — depende da distinta base"
 ---
 
-# Oceano (Pulseira)
+# Fênice (Colar)
 
-**Código:** BR-003 · **Categoria:** Pulseira · **Coleção:** Equinox · **Status:** Aguardando distinta base
+**Código:** CO-002 · **Categoria:** Colar · **Coleção:** Equinox · **Status:** Aguardando distinta base
 
-Par com o colar **Oceano** (`CO-001-oceano.md`) — mesmo conjunto.
+Par com a pulseira **Fênice** (`BR-001-fenice.md`) — mesmo conjunto, fotografado junto em `IMG_8987.JPG`.
 
 ---
 
 ## 1. Identificação & Conceito
 
-- **Nome:** Oceano
-- **Código:** BR-003
-- **Categoria:** Pulseira
+- **Nome:** Fênice
+- **Código:** CO-002
+- **Categoria:** Colar
 - **Coleção/linha:** Equinox
-- **Inspiração (Fase 01):** mesma inspiração do colar CO-001 — pedra de vidro azul, pedras pretas e madeira
-- **Descrição curta:** [a escrever]
+- **Inspiração (Fase 01):** conjunto vermelho/preto/prata — miçanga preta, laranja/coral e vermelha, detalhes prateados, refletido numa bandeja-espelho ornamentada com flores secas e pérolas
+- **Descrição curta:** [a escrever — como você descreveria o Fênice em 1-2 frases, no tom direto da marca?]
 
 ## 2. Especificação Técnica
 
-- **Material principal:** a confirmar — **não assumir que é idêntico ao colar**, a proporção de contas muda numa pulseira
+- **Material principal:** a confirmar
 - **Dimensões:** [a definir]
 - **Acabamento:** [a definir]
 - **Variações:** [a definir]
 
 ## 3. Distinta Base (Materiais)
 
-**Pendente.** Preciso da lista de materiais real desta pulseira (código, fornecedor, quantidade, custo unitário) — não vou copiar a distinta base do colar CO-001 sem confirmação, mesmo sendo do mesmo conjunto.
+**Pendente.** A descrição acima é leitura visual de uma foto, não é distinta base real — preciso da lista de materiais (código, fornecedor, quantidade, custo unitário) pra fechar esta seção, igual você mandou pro Oceano.
 
 | Código | Material | Fornecedor | Quantidade | Custo unitário | Custo |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@ Pendente.
 
 ## 9. Conformidade de Marca
 
-Ver `../identidade/identidade-visual.md`.
+Ver `../../identidade/identidade-visual.md`.
 
 - [ ] Produto é o protagonista absoluto da cena
 - [ ] Cor usada como linguagem, não decoração
@@ -78,13 +78,13 @@ Ver `../identidade/identidade-visual.md`.
 
 ## 10. Conteúdo Visual
 
-- **Status fotos/vídeos:** ainda não identificado qual arquivo do Drive é esta pulseira especificamente
+- **Status fotos/vídeos:** já existe pelo menos uma foto (`IMG_8987.JPG`, junto com a pulseira Fênice) — ver `../../midia-social/catalogo-fotos.md`
 - **Pasta Drive:** [FOTOS GAXEL](https://drive.google.com/drive/folders/1hQB6qOckcK0ryG42ZMcwKX0hb79Gzmb_)
 
 ## 11. Status no Fluxo Criativo
 
 - [x] 01 — Inspiração & Território
-- [ ] 02 — Design & Prototipagem
+- [x] 02 — Design & Prototipagem
 - [ ] 03 — Distinta Base & Custos
 - [ ] 04 — Produção
 - [ ] 05 — Conteúdo Visual
@@ -95,4 +95,4 @@ Ver `../identidade/identidade-visual.md`.
 
 | Data | Alteração | Responsável |
 |---|---|---|
-| 2026-07-17 | Ficha criada a pedido do Gabriel — completa o conjunto Oceano junto com CO-001 | Gabriel Carvalho |
+| 2026-07-17 | Ficha criada — nome e categoria confirmados, aguardando distinta base | Gabriel Carvalho |

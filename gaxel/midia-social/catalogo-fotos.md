@@ -36,6 +36,6 @@ Sem nome de peça no arquivo, toda vez que formos montar um post ou uma ficha t�
 
 3. Cole o link da pasta (ou da foto específica) no campo "Pasta Drive" da ficha técnica correspondente em `produtos/`.
 
-**Coleção Equinox — identificada por completo (17/07):** 3 conjuntos (colar + pulseira) — Oceano (`CO-001`/`BR-003`), Fênice (`CO-002`/`BR-001`, foto `IMG_8987.JPG`) e Nadir (`CO-003`/`BR-002`, foto `IMG_8986.JPG`). Falta a distinta base de cada peça pra fechar as fichas técnicas — ver `../produtos/colecao-equinox.md`.
+**Coleção Equinox — identificada por completo (17/07):** 3 conjuntos (colar + pulseira) — Oceano (`CO-001`/`BR-003`), Fênice (`CO-002`/`BR-001`, foto `IMG_8987.JPG`) e Nadir (`CO-003`/`BR-002`, foto `IMG_8986.JPG`). Falta a distinta base de cada peça pra fechar as fichas técnicas — ver `../produtos/colecao-equinox/README.md`.
 
 **Fora da Equinox:** o conjunto de madeira, pedra lava e concha (`IMG_8975.JPG` / `IMG_8973.JPG`) confirmado como não fazendo parte desta coleção — fica sem coleção definida por enquanto.

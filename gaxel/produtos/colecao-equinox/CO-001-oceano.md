@@ -96,7 +96,7 @@ Bateu o teto que você pediu, mas com um efeito colateral importante: a **€ 30
 
 ## 9. Conformidade de Marca
 
-Ver `../identidade/identidade-visual.md`.
+Ver `../../identidade/identidade-visual.md`.
 
 - [ ] Produto é o protagonista absoluto da cena
 - [ ] Cor usada como linguagem, não decoração

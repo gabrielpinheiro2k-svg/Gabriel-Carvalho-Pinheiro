@@ -1,42 +1,42 @@
 ---
-codigo: CO-003
-nome: "Nadir"
-categoria: "Colar"
+codigo: BR-003
+nome: "Oceano"
+categoria: "Pulseira"
 colecao: "Equinox"
-material_principal: "A confirmar — visualmente contas pretas (ônix?), coral/vermelho em cilindro, cristais facetados vermelhos/laranja/amarelos, detalhes prateados"
+material_principal: "A confirmar — provavelmente similar ao colar Oceano (vidro azul, pedra oceano, madeira, pretas), não copiar sem confirmar"
 status: "Aguardando distinta base"
 fase_atual: "01 — Inspiração & Território"
 data_criacao: "2026-07-17"
 preco_venda: "a definir — depende da distinta base"
 ---
 
-# Nadir (Colar)
+# Oceano (Pulseira)
 
-**Código:** CO-003 · **Categoria:** Colar · **Coleção:** Equinox · **Status:** Aguardando distinta base
+**Código:** BR-003 · **Categoria:** Pulseira · **Coleção:** Equinox · **Status:** Aguardando distinta base
 
-Par com a pulseira **Nadir** (`BR-002-nadir.md`) — mesmo conjunto, referência de foto: `IMG_8986.JPG` (corrigido de `IMG_8999.JPG`).
+Par com o colar **Oceano** (`CO-001-oceano.md`) — mesmo conjunto.
 
 ---
 
 ## 1. Identificação & Conceito
 
-- **Nome:** Nadir
-- **Código:** CO-003
-- **Categoria:** Colar
+- **Nome:** Oceano
+- **Código:** BR-003
+- **Categoria:** Pulseira
 - **Coleção/linha:** Equinox
-- **Inspiração (Fase 01):** contas pretas redondas (tipo ônix), miçanga coral/vermelha em cilindro, cristais facetados vermelhos, laranja e amarelos, pequenos espaçadores prateados — múltiplas voltas, fotografado na mesma bandeja-espelho com pérolas na borda usada no Fênice
-- **Descrição curta:** [a escrever — como você descreveria o Nadir em 1-2 frases, no tom direto da marca?]
+- **Inspiração (Fase 01):** mesma inspiração do colar CO-001 — pedra de vidro azul, pedras pretas e madeira
+- **Descrição curta:** [a escrever]
 
 ## 2. Especificação Técnica
 
-- **Material principal:** a confirmar (leitura visual acima, não é distinta base)
+- **Material principal:** a confirmar — **não assumir que é idêntico ao colar**, a proporção de contas muda numa pulseira
 - **Dimensões:** [a definir]
 - **Acabamento:** [a definir]
 - **Variações:** [a definir]
 
 ## 3. Distinta Base (Materiais)
 
-**Pendente.** Preciso da lista de materiais (código, fornecedor, quantidade, custo unitário).
+**Pendente.** Preciso da lista de materiais real desta pulseira (código, fornecedor, quantidade, custo unitário) — não vou copiar a distinta base do colar CO-001 sem confirmação, mesmo sendo do mesmo conjunto.
 
 | Código | Material | Fornecedor | Quantidade | Custo unitário | Custo |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@ Pendente.
 
 ## 9. Conformidade de Marca
 
-Ver `../identidade/identidade-visual.md`.
+Ver `../../identidade/identidade-visual.md`.
 
 - [ ] Produto é o protagonista absoluto da cena
 - [ ] Cor usada como linguagem, não decoração
@@ -78,13 +78,13 @@ Ver `../identidade/identidade-visual.md`.
 
 ## 10. Conteúdo Visual
 
-- **Status fotos/vídeos:** já existe pelo menos uma foto (`IMG_8986.JPG`)
+- **Status fotos/vídeos:** ainda não identificado qual arquivo do Drive é esta pulseira especificamente
 - **Pasta Drive:** [FOTOS GAXEL](https://drive.google.com/drive/folders/1hQB6qOckcK0ryG42ZMcwKX0hb79Gzmb_)
 
 ## 11. Status no Fluxo Criativo
 
 - [x] 01 — Inspiração & Território
-- [x] 02 — Design & Prototipagem
+- [ ] 02 — Design & Prototipagem
 - [ ] 03 — Distinta Base & Custos
 - [ ] 04 — Produção
 - [ ] 05 — Conteúdo Visual
@@ -95,4 +95,4 @@ Ver `../identidade/identidade-visual.md`.
 
 | Data | Alteração | Responsável |
 |---|---|---|
-| 2026-07-17 | Ficha criada — nome confirmado, aguardando material e distinta base | Gabriel Carvalho |
+| 2026-07-17 | Ficha criada a pedido do Gabriel — completa o conjunto Oceano junto com CO-001 | Gabriel Carvalho |

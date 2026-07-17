@@ -15,7 +15,7 @@ As 6 peças estão identificadas — 3 conjuntos (colar + pulseira): Oceano, Fê
 | CO-003 | Colar | Nadir | 🔶 Nome e visual confirmados (`IMG_8986.JPG`) — falta distinta base | `CO-003-nadir.md` |
 | BR-002 | Pulseira | Nadir | 🔶 Nome e visual confirmados (`IMG_8986.JPG`) — falta distinta base | `BR-002-nadir.md` |
 
-**Nota:** `IMG_8975.JPG`/`IMG_8973.JPG` (conjunto madeira + lava + concha) **não faz parte da Equinox** — removido da lista, fica só como inventário geral em `../midia-social/catalogo-fotos.md` até ter uma coleção definida.
+**Nota:** `IMG_8975.JPG`/`IMG_8973.JPG` (conjunto madeira + lava + concha) **não faz parte da Equinox** — removido da lista, fica só como inventário geral em `../../midia-social/catalogo-fotos.md` até ter uma coleção definida.
 
 ## O que preciso pra fechar cada ficha
 
