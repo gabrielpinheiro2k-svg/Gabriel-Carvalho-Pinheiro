@@ -4,18 +4,22 @@
 
 ## Mapa da coleção
 
+As 6 peças estão identificadas — 3 conjuntos (colar + pulseira): Oceano, Fênice, Nadir. Falta distinta base em 5 delas.
+
 | Código | Categoria | Nome | Status | Arquivo |
 |---|---|---|---|---|
 | CO-001 | Colar | Oceano | ✅ Ficha pronta — € 30,00 (ponto de equilíbrio) | `CO-001-oceano.md` |
-| CO-002 | Colar | Fênice | 🔶 Nome e categoria confirmados (conjunto com BR-001, `IMG_8987.JPG`) — falta distinta base | — |
-| CO-003 | Colar | — | ⏳ Aguardando dados | — |
-| BR-001 | Pulseira | Fênice | 🔶 Nome e categoria confirmados (conjunto com CO-002, `IMG_8987.JPG`) — falta distinta base | — |
-| BR-002 | Pulseira | — | ⏳ Aguardando dados | — |
-| BR-003 | Pulseira | — | ⏳ Aguardando dados | — |
+| BR-003 | Pulseira | Oceano | 🔶 Nome confirmado — falta distinta base | `BR-003-oceano.md` |
+| CO-002 | Colar | Fênice | 🔶 Nome confirmado (`IMG_8987.JPG`) — falta distinta base | `CO-002-fenice.md` |
+| BR-001 | Pulseira | Fênice | 🔶 Nome confirmado (`IMG_8987.JPG`) — falta distinta base | `BR-001-fenice.md` |
+| CO-003 | Colar | Nadir | 🔶 Nome confirmado (`IMG_8999.JPG`, não inspecionado ainda) — falta material e distinta base | `CO-003-nadir.md` |
+| BR-002 | Pulseira | Nadir | 🔶 Nome confirmado (`IMG_8999.JPG`, não inspecionado ainda) — falta material e distinta base | `BR-002-nadir.md` |
+
+**Nota:** `IMG_8975.JPG`/`IMG_8973.JPG` (conjunto madeira + lava + concha) **não faz parte da Equinox** — removido da lista, fica só como inventário geral em `../midia-social/catalogo-fotos.md` até ter uma coleção definida.
 
 ## O que preciso pra fechar cada ficha
 
-Por peça: nome, material principal, dimensões, e a distinta base (cada material com fornecedor, quantidade e custo unitário — como você mandou pro CO-001). Pode mandar uma de cada vez ou todas juntas.
+Por peça: a distinta base (cada material com fornecedor, quantidade e custo unitário — como você mandou pro CO-001, colar e pulseira separados mesmo sendo do mesmo conjunto). Pode mandar uma de cada vez ou todas juntas.
 
 ## Observação de margem
 

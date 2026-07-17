@@ -22,14 +22,15 @@ Ajuste se você já usa outra convenção — o importante é ser consistente da
 
 ## Peças reais
 
+Coleção Equinox — 3 conjuntos (colar + pulseira). Mapa completo com status detalhado em `colecao-equinox.md`.
+
 | Código | Nome | Status | Preço | Arquivo |
 |---|---|---|---|---|
-| CO-001 | Oceano (coleção Equinox) | Produção | € 30,00 (ponto de equilíbrio) | `CO-001-oceano.md` |
+| CO-001 | Oceano (colar) | Ficha pronta | € 30,00 (ponto de equilíbrio) | `CO-001-oceano.md` |
+| BR-003 | Oceano (pulseira) | Aguardando distinta base | a definir | `BR-003-oceano.md` |
+| CO-002 | Fênice (colar) | Aguardando distinta base | a definir | `CO-002-fenice.md` |
+| BR-001 | Fênice (pulseira) | Aguardando distinta base | a definir | `BR-001-fenice.md` |
+| CO-003 | Nadir (colar) | Aguardando dados | a definir | `CO-003-nadir.md` |
+| BR-002 | Nadir (pulseira) | Aguardando dados | a definir | `BR-002-nadir.md` |
 
-Atualize esta tabela a cada ficha nova criada. Ver `colecao-equinox.md` para o mapa completo das 6 peças planejadas da linha Equinox.
-
-## Exemplo de referência (não é produto real)
-
-| Código | Nome | Arquivo | Uso |
-|---|---|---|---|
-| EX-001 | Bracelete Aurora | `EX-001-bracelete-aurora-exemplo.md` | Modelo de como preencher uma ficha de fascia premium (prata 925 + pedra natural). Não é uma peça da GAXEL — não conta em catálogo, dashboard ou break-even reais. Renomeado de BR-001 pra liberar o código pro primeiro bracelete real da Equinox. |
+Atualize esta tabela a cada ficha nova criada.

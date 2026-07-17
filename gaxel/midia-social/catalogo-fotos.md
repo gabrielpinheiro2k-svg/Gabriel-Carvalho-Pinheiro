@@ -17,7 +17,7 @@ A pasta tem mais de 100 arquivos, sem organização — nomes de câmera (`IMG_8
 | Arquivo | O que mostra | Uso sugerido |
 |---|---|---|
 | `IMG_8987.JPG` | **Conjunto Fênice** (confirmado) — colar (`CO-002`) e pulseira (`BR-001`) fazendo par, miçanga preta, laranja/coral e vermelha com detalhes prateados, refletidos numa bandeja-espelho ornamentada com flores secas e pérolas na borda | Still de produto — Instagram feed |
-| `IMG_8975.JPG` | Colar com contas de madeira, pedra lava preta e fragmento de concha, contraluz de pôr do sol sobre capô de carro — nome/código ainda não confirmado | Lifestyle / golden hour — feed ou Reel |
+| `IMG_8975.JPG` | Colar com contas de madeira, pedra lava preta e fragmento de concha, contraluz de pôr do sol sobre capô de carro — **não é da coleção Equinox** | Lifestyle / golden hour — feed ou Reel |
 | `IMG_8973.JPG` | Variação do mesmo conjunto acima (madeira + lava + concha), múltiplas voltas, mesma superfície refletora | Still de produto — carrossel |
 | `IMG_8811.JPG` | Bastidores: duas mãos fechando o fecho metálico de uma pulseira | Bastidores — Story ou Reel de processo |
 | exports pequenos (ex. par de brincos contas roxas/rosa/pretas entre folhas) | Mesmo conteúdo do moodboard oficial — já usado como referência de marca, não é still novo | Não usar como post "inédito"; é material de brand board |
@@ -35,6 +35,6 @@ Sem nome de peça no arquivo, toda vez que formos montar um post ou uma ficha t�
 
 3. Cole o link da pasta (ou da foto específica) no campo "Pasta Drive" da ficha técnica correspondente em `produtos/`.
 
-**Resolvido:** `IMG_8987.JPG` é o Conjunto Fênice (colar CO-002 + pulseira BR-001) — falta a distinta base de cada peça pra fechar as fichas.
+**Coleção Equinox — identificada por completo (17/07):** 3 conjuntos (colar + pulseira) — Oceano (`CO-001`/`BR-003`), Fênice (`CO-002`/`BR-001`, foto `IMG_8987.JPG`) e Nadir (`CO-003`/`BR-002`, foto `IMG_8999.JPG` — ainda não inspecionada). Falta a distinta base de cada peça pra fechar as fichas técnicas — ver `../produtos/colecao-equinox.md`.
 
-**Ainda em aberto:** o conjunto de madeira, pedra lava e concha (`IMG_8975.JPG` / `IMG_8973.JPG`) ainda não tem nome nem código confirmado.
+**Fora da Equinox:** o conjunto de madeira, pedra lava e concha (`IMG_8975.JPG` / `IMG_8973.JPG`) confirmado como não fazendo parte desta coleção — fica sem coleção definida por enquanto.
