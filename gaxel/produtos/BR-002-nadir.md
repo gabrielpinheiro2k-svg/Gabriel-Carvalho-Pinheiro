@@ -3,7 +3,7 @@ codigo: BR-002
 nome: "Nadir"
 categoria: "Pulseira"
 colecao: "Equinox"
-material_principal: "A confirmar — ainda não inspecionei foto desta peça"
+material_principal: "A confirmar — visualmente contas pretas (ônix?), coral/vermelho em cilindro, cristais facetados vermelhos/laranja/amarelos, detalhes prateados"
 status: "Aguardando distinta base"
 fase_atual: "01 — Inspiração & Território"
 data_criacao: "2026-07-17"
@@ -14,7 +14,7 @@ preco_venda: "a definir — depende da distinta base"
 
 **Código:** BR-002 · **Categoria:** Pulseira · **Coleção:** Equinox · **Status:** Aguardando distinta base
 
-Par com o colar **Nadir** (`CO-003-nadir.md`) — mesmo conjunto, referência de foto: `IMG_8999.JPG`.
+Par com o colar **Nadir** (`CO-003-nadir.md`) — mesmo conjunto, referência de foto: `IMG_8986.JPG` (corrigido de `IMG_8999.JPG`).
 
 ---
 
@@ -24,12 +24,12 @@ Par com o colar **Nadir** (`CO-003-nadir.md`) — mesmo conjunto, referência de
 - **Código:** BR-002
 - **Categoria:** Pulseira
 - **Coleção/linha:** Equinox
-- **Inspiração (Fase 01):** [a descrever — ainda não inspecionei `IMG_8999.JPG`, Drive estava desconectado no momento]
-- **Descrição curta:** [a escrever]
+- **Inspiração (Fase 01):** contas pretas redondas (tipo ônix), miçanga coral/vermelha em cilindro, cristais facetados vermelhos, laranja e amarelos, pequenos espaçadores prateados — múltiplas voltas, fotografado na mesma bandeja-espelho com pérolas na borda usada no Fênice
+- **Descrição curta:** [a escrever — como você descreveria o Nadir em 1-2 frases, no tom direto da marca?]
 
 ## 2. Especificação Técnica
 
-- **Material principal:** a confirmar
+- **Material principal:** a confirmar (leitura visual acima, não é distinta base)
 - **Dimensões:** [a definir]
 - **Acabamento:** [a definir]
 - **Variações:** [a definir]
@@ -78,13 +78,13 @@ Ver `../identidade/identidade-visual.md`.
 
 ## 10. Conteúdo Visual
 
-- **Status fotos/vídeos:** provavelmente `IMG_8999.JPG` — ainda não confirmado visualmente
+- **Status fotos/vídeos:** já existe pelo menos uma foto (`IMG_8986.JPG`)
 - **Pasta Drive:** [FOTOS GAXEL](https://drive.google.com/drive/folders/1hQB6qOckcK0ryG42ZMcwKX0hb79Gzmb_)
 
 ## 11. Status no Fluxo Criativo
 
 - [x] 01 — Inspiração & Território
-- [ ] 02 — Design & Prototipagem
+- [x] 02 — Design & Prototipagem
 - [ ] 03 — Distinta Base & Custos
 - [ ] 04 — Produção
 - [ ] 05 — Conteúdo Visual
