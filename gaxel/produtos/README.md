@@ -22,14 +22,14 @@ Ajuste se você já usa outra convenção — o importante é ser consistente da
 
 ## Peças reais
 
-| Código | Nome | Status | Arquivo |
-|---|---|---|---|
-| CO-001 | Oceano (coleção Equinox) | Produção | `CO-001-oceano.md` |
+| Código | Nome | Status | Preço | Arquivo |
+|---|---|---|---|---|
+| CO-001 | Oceano (coleção Equinox) | Produção | € 30,00 (ponto de equilíbrio) | `CO-001-oceano.md` |
 
-Atualize esta tabela a cada ficha nova criada.
+Atualize esta tabela a cada ficha nova criada. Ver `colecao-equinox.md` para o mapa completo das 6 peças planejadas da linha Equinox.
 
 ## Exemplo de referência (não é produto real)
 
 | Código | Nome | Arquivo | Uso |
 |---|---|---|---|
-| BR-001 | Bracelete Aurora | `BR-001-bracelete-aurora.md` | Modelo de como preencher uma ficha de fascia premium (prata 925 + pedra natural). Não é uma peça da GAXEL — não conta em catálogo, dashboard ou break-even reais. |
+| EX-001 | Bracelete Aurora | `EX-001-bracelete-aurora-exemplo.md` | Modelo de como preencher uma ficha de fascia premium (prata 925 + pedra natural). Não é uma peça da GAXEL — não conta em catálogo, dashboard ou break-even reais. Renomeado de BR-001 pra liberar o código pro primeiro bracelete real da Equinox. |
