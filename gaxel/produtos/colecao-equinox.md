@@ -7,9 +7,9 @@
 | Código | Categoria | Nome | Status | Arquivo |
 |---|---|---|---|---|
 | CO-001 | Colar | Oceano | ✅ Ficha pronta — € 30,00 (ponto de equilíbrio) | `CO-001-oceano.md` |
-| CO-002 | Colar | — | ⏳ Aguardando dados | — |
+| CO-002 | Colar | Fênice | 🔶 Nome e categoria confirmados (conjunto com BR-001, `IMG_8987.JPG`) — falta distinta base | — |
 | CO-003 | Colar | — | ⏳ Aguardando dados | — |
-| BR-001 | Pulseira | (a nomear) | 🔶 Categoria confirmada — miçangas pretas, laranja/coral e vermelhas com contas prateadas (`IMG_8987.JPG`); falta nome e distinta base | — |
+| BR-001 | Pulseira | Fênice | 🔶 Nome e categoria confirmados (conjunto com CO-002, `IMG_8987.JPG`) — falta distinta base | — |
 | BR-002 | Pulseira | — | ⏳ Aguardando dados | — |
 | BR-003 | Pulseira | — | ⏳ Aguardando dados | — |
 
