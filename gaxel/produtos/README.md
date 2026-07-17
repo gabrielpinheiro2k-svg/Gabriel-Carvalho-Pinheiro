@@ -25,5 +25,6 @@ Ajuste se você já usa outra convenção — o importante é ser consistente da
 | Código | Nome | Status | Arquivo |
 |---|---|---|---|
 | BR-001 | Bracelete Aurora | Protótipo | `BR-001-bracelete-aurora.md` |
+| CO-001 | Oceano (coleção Equinox) | Produção | `CO-001-oceano.md` |
 
 Atualize esta tabela a cada ficha nova criada.
