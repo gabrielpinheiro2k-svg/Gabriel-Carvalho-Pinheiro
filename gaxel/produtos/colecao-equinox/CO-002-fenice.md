@@ -14,7 +14,7 @@ preco_venda: "a definir — depende da distinta base"
 
 **Código:** CO-002 · **Categoria:** Colar · **Coleção:** Equinox · **Status:** Aguardando distinta base
 
-Par com a pulseira **Fênice** (`BR-001-fenice.md`) — mesmo conjunto, fotografado junto em `IMG_8987.JPG`.
+Par com a pulseira **Fênice** (`BR-002-fenice.md`) — mesmo conjunto, fotografado junto em `IMG_8987.JPG`.
 
 ---
 

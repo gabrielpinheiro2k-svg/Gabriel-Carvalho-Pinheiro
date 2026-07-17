@@ -14,7 +14,7 @@ preco_venda: "a definir — depende da distinta base"
 
 **Código:** CO-003 · **Categoria:** Colar · **Coleção:** Equinox · **Status:** Aguardando distinta base
 
-Par com a pulseira **Nadir** (`BR-002-nadir.md`) — mesmo conjunto, referência de foto: `IMG_8986.JPG` (corrigido de `IMG_8999.JPG`).
+Par com a pulseira **Nadir** (`BR-003-nadir.md`) — mesmo conjunto, referência de foto: `IMG_8986.JPG`.
 
 ---
 

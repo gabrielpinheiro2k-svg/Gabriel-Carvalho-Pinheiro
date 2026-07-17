@@ -16,8 +16,8 @@ A pasta tem mais de 100 arquivos, sem organização — nomes de câmera (`IMG_8
 
 | Arquivo | O que mostra | Uso sugerido |
 |---|---|---|
-| `IMG_8987.JPG` | **Conjunto Fênice** (confirmado) — colar (`CO-002`) e pulseira (`BR-001`) fazendo par, miçanga preta, laranja/coral e vermelha com detalhes prateados, refletidos numa bandeja-espelho ornamentada com flores secas e pérolas na borda | Still de produto — Instagram feed |
-| `IMG_8986.JPG` | **Conjunto Nadir** (confirmado) — colar (`CO-003`) e pulseira (`BR-002`), contas pretas redondas, coral/vermelho em cilindro, cristais facetados vermelhos/laranja/amarelos, detalhes prateados, mesma bandeja-espelho | Still de produto — Instagram feed |
+| `IMG_8987.JPG` | **Conjunto Fênice** (confirmado) — colar (`CO-002`) e pulseira (`BR-002`) fazendo par, miçanga preta, laranja/coral e vermelha com detalhes prateados, refletidos numa bandeja-espelho ornamentada com flores secas e pérolas na borda | Still de produto — Instagram feed |
+| `IMG_8986.JPG` | **Conjunto Nadir** (confirmado) — colar (`CO-003`) e pulseira (`BR-003`), contas pretas redondas, coral/vermelho em cilindro, cristais facetados vermelhos/laranja/amarelos, detalhes prateados, mesma bandeja-espelho | Still de produto — Instagram feed |
 | `IMG_8975.JPG` | Colar com contas de madeira, pedra lava preta e fragmento de concha, contraluz de pôr do sol sobre capô de carro — **não é da coleção Equinox** | Lifestyle / golden hour — feed ou Reel |
 | `IMG_8973.JPG` | Variação do mesmo conjunto acima (madeira + lava + concha), múltiplas voltas, mesma superfície refletora | Still de produto — carrossel |
 | `IMG_8811.JPG` | Bastidores: duas mãos fechando o fecho metálico de uma pulseira | Bastidores — Story ou Reel de processo |
@@ -36,6 +36,6 @@ Sem nome de peça no arquivo, toda vez que formos montar um post ou uma ficha t�
 
 3. Cole o link da pasta (ou da foto específica) no campo "Pasta Drive" da ficha técnica correspondente em `produtos/`.
 
-**Coleção Equinox — identificada por completo (17/07):** 3 conjuntos (colar + pulseira) — Oceano (`CO-001`/`BR-003`), Fênice (`CO-002`/`BR-001`, foto `IMG_8987.JPG`) e Nadir (`CO-003`/`BR-002`, foto `IMG_8986.JPG`). Falta a distinta base de cada peça pra fechar as fichas técnicas — ver `../produtos/colecao-equinox/README.md`.
+**Coleção Equinox — identificada por completo (17/07):** 3 conjuntos (colar + pulseira), código alinhado entre par — Oceano (`CO-001`/`BR-001`, ficha pronta), Fênice (`CO-002`/`BR-002`, foto `IMG_8987.JPG`) e Nadir (`CO-003`/`BR-003`, foto `IMG_8986.JPG`). Falta a distinta base de 4 peças pra fechar as fichas técnicas — ver `../produtos/colecao-equinox/README.md`.
 
 **Fora da Equinox:** o conjunto de madeira, pedra lava e concha (`IMG_8975.JPG` / `IMG_8973.JPG`) confirmado como não fazendo parte desta coleção — fica sem coleção definida por enquanto.

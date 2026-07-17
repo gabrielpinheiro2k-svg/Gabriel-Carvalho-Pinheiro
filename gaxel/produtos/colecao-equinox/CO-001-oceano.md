@@ -14,6 +14,8 @@ preco_venda: "€ 30,00 (ponto de equilíbrio)"
 
 **Código:** CO-001 · **Categoria:** Colar · **Coleção:** Equinox · **Status:** Produção
 
+Par com a pulseira **Oceano** (`BR-001-oceano.md`) — mesmo conjunto.
+
 ---
 
 ## 1. Identificação & Conceito
@@ -123,4 +125,4 @@ Ver `../../identidade/identidade-visual.md`.
 
 | Data | Alteração | Responsável |
 |---|---|---|
-| 2026-06-26 | Ficha criada a partir da distinta base original | Gabriel Carvalho |
+| 2026-07-17 | Ficha criada a partir da distinta base original | Gabriel Carvalho |
