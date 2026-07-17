@@ -26,13 +26,13 @@ A pasta tem mais de 100 arquivos, sem organização — nomes de câmera (`IMG_8
 
 Sem nome de peça no arquivo, toda vez que formos montar um post ou uma ficha técnica alguém tem que abrir a pasta inteira de novo. Solução simples:
 
-1. Assim que uma peça ganha código na `produtos/` (ex. `BR-002`), renomeie os arquivos dela no Drive pra `BR-002_01.jpg`, `BR-002_02.jpg` etc. — direto na pasta `FOTOS GAXEL`, sem precisar mover nada.
+1. Assim que uma peça ganha código na `produtos/` (ex. `CO-002`), renomeie os arquivos dela no Drive pra `CO-002_01.jpg`, `CO-002_02.jpg` etc. — direto na pasta `FOTOS GAXEL`, sem precisar mover nada.
 2. Adicione uma linha nesta tabela:
 
 | Peça / Código | Arquivo(s) Drive | Descrição | Uso sugerido |
 |---|---|---|---|
-| [ex.: BR-002] | [ex.: BR-002_01.jpg] | [o que a foto mostra] | [feed / story / reel / bastidores] |
+| [ex.: CO-002] | [ex.: CO-002_01.jpg] | [o que a foto mostra] | [feed / story / reel / bastidores] |
 
 3. Cole o link da pasta (ou da foto específica) no campo "Pasta Drive" da ficha técnica correspondente em `produtos/`.
 
-**Peça em aberto:** nenhuma das 5 fotos inspecionadas bate com a especificação do BR-001 (prata 925 + labradorita) — são todas em madeira, pedra lava e concha, material bem diferente. Ou o BR-001 ainda não foi fotografado, ou essas fotos são de peças novas sem código ainda. Preciso que você diga qual é qual pra eu criar as fichas certas.
+**Peça em aberto:** nenhuma das 5 fotos inspecionadas bate com a especificação  — são todas em madeira, pedra lava e concha, material bem diferente. Ou o CO-002 ainda não foi fotografado, ou essas fotos são de peças novas sem código ainda. Preciso que você diga qual é qual pra eu criar as fichas certas.
