@@ -20,11 +20,16 @@ Um documento por peça. É o rascunho de trabalho que depois vira uma linha no b
 
 Ajuste se você já usa outra convenção — o importante é ser consistente daqui pra frente.
 
-## Peças cadastradas
+## Peças reais
 
 | Código | Nome | Status | Arquivo |
 |---|---|---|---|
-| BR-001 | Bracelete Aurora | Protótipo | `BR-001-bracelete-aurora.md` |
 | CO-001 | Oceano (coleção Equinox) | Produção | `CO-001-oceano.md` |
 
 Atualize esta tabela a cada ficha nova criada.
+
+## Exemplo de referência (não é produto real)
+
+| Código | Nome | Arquivo | Uso |
+|---|---|---|---|
+| BR-001 | Bracelete Aurora | `BR-001-bracelete-aurora.md` | Modelo de como preencher uma ficha de fascia premium (prata 925 + pedra natural). Não é uma peça da GAXEL — não conta em catálogo, dashboard ou break-even reais. |

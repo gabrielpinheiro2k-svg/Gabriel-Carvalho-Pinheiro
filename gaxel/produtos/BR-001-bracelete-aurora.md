@@ -4,15 +4,17 @@ nome: "Bracelete Aurora"
 categoria: "Pulseira"
 colecao: "avulso"
 material_principal: "Prata 925 + pedra natural (Labradorita)"
-status: "Protótipo"
+status: "Exemplo — não é produto real"
 fase_atual: "03 — Distinta Base & Custos"
 data_criacao: "2026-07-16"
 preco_venda: "€ 479,00"
 ---
 
-# Bracelete Aurora
+> ⚠️ **Esta peça não existe.** BR-001 foi o primeiro exemplo usado para explicar o método de custeio (distinta base → custo pleno → markup → break-even) — mantido aqui só como referência de como preencher uma ficha de fascia premium (prata 925 + pedra natural). Não conta como peça real da GAXEL nem entra em catálogo, dashboard ou break-even reais.
 
-**Código:** BR-001 · **Categoria:** Pulseira · **Status:** Protótipo
+# Bracelete Aurora (exemplo)
+
+**Código:** BR-001 · **Categoria:** Pulseira · **Status:** Exemplo — não é produto real
 
 ---
 
