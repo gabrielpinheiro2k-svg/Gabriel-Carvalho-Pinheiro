@@ -2,6 +2,17 @@
 
 **Conta atual:** [@gloria_raiz3](https://instagram.com/gloria_raiz3) — provisória. Já vale postar seguindo o tom de voz e a direção visual da marca, mas o handle final ainda vai migrar para algo com "gaxel" no nome quando a marca estiver pronta pra virar oficial.
 
+## Panorama da conta (17/07)
+
+Não é conta zerada — já tem histórico real pra aprender com ele.
+
+- **17 posts · 36 seguidores · 1 seguindo**
+- Bio atual: *"Gioielli artigianali fatti con un tocco d'amore e impegno Brasiliano 🌿🐆 🇧🇷 · Creator @wtf.biey"* — tom mais pessoal/casual que o tom de voz definido pra GAXEL (direto, assertivo, seguro). Vale reescrever quando migrar de handle.
+- Destaque salvo: "Collane" (colares).
+- Dashboard profissional: 4.719 visualizações nos últimos 30 dias.
+- **Post de melhor desempenho: 908 visualizações** — colar com concha e miçangas azuis, provavelmente o CO-001 Oceano (ver ficha em `../produtos/CO-001-oceano.md`). O resto do feed varia entre 51 e 365 visualizações — esse post está muito acima da média, vale entender o porquê (cor azul mais rara no feed? concha chama mais atenção? horário do post?) antes de repetir a fórmula.
+- Grade visual já é consistente: luz natural, folhas, superfícies refletoras (capô de carro, bandeja-espelho) — bate com a Direção Visual do brand board sem precisar mudar nada.
+
 ## Como usar
 
 Uma linha por publicação. Preencha `Peça/Código` assim que a ficha técnica existir; até lá, descreva o conteúdo. `Arquivo` aponta pro Drive (ver `catalogo-fotos.md`). Regra de aprovação antes de publicar: bate com os 5 Princípios Criativos e o tom de voz (direto, assertivo, seguro, forte, humanizado) — ver `../identidade/identidade-visual.md`.
