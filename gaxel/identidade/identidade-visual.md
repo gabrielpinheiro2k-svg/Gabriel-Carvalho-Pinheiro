@@ -23,7 +23,7 @@ Fonte: `GAXEL_Brand_Board.pdf`. Este documento é a referência única — as fi
 
 **Decisão atual — Italiana**, peso 400, tracking 0,3–0,34em, caixa alta. Escolhida pelo Gabriel como a direção preferida entre as três exploradas — traço fino e elegante, reforça "Made in Italy" sem precisar escrever a palavra. Google Fonts, licença SIL Open Font License: uso comercial e modificação livres, sem custo.
 
-> ⚠️ **Pendente:** o lockup com kerning manual (A→X, E→L) e a marca da Flor da Vida, publicado no artifact, foi desenhado em cima da Bodoni Moda (a direção originalmente recomendada) — não transfere direto pra Italiana. Falta montar o lockup oficial na fonte certa.
+**Lockup oficial (17/07):** wordmark "GAXEL" em Italiana, tracking 0,4em, com G e L (primeira e última letra) 35% maiores que o miolo A-X-E — efeito de "moldura", recurso clássico de logotipo de casa de moda, combinado com a marca da Flor da Vida. Publicado no artifact "GAXEL — Sistema Tipográfico".
 
 Alternativas testadas, não escolhidas: **Bodoni Moda** (peso 800, contraste extremo — a recomendação original) e **Cinzel** (peso 600, tracking 0,1em, capital romana). Qualquer uma pode voltar a ser usada como selo/carimbo secundário. Texto corrido segue em sans-serif de sistema.
 
