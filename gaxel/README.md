@@ -2,7 +2,7 @@
 
 Pasta de trabalho para compilar as informações da marca antes de lançar no Notion.
 
-- `identidade/` — identidade visual oficial (cores, tipografia, direção visual), extraída do `GAXEL_Brand_Board.pdf`, mais a `cartela-de-cores.md` com todas as combinações fundo × texto já testadas.
+- `identidade/` — identidade visual oficial (cores, tipografia, direção visual), extraída do `GAXEL_Brand_Board.pdf`, mais a `cartela-de-cores.md` com as combinações fundo × texto já testadas e o `briefing-designer.md` pronto pra postar em plataforma de freelancer.
 - `produtos/` — uma ficha técnica por peça (distinta base, custos, precificação, break-even, status no fluxo criativo). Comece por `produtos/README.md`. Coleções nomeadas ganham subpasta própria — a primeira é `produtos/colecao-equinox/`, com as 6 peças reais da marca.
 - `midia-social/` — `catalogo-fotos.md` organiza o que já existe na pasta "FOTOS GAXEL" do Drive; `calendario-editorial.md` planeja as próximas publicações (conta atual: @gloria_raiz3, provisória).
 
